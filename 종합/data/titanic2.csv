@@ -1,0 +1,6 @@
+Survived,Pclass,Sex,Age,Fare,Embarked
+Dead,3,male,22.0,7.25,S
+Survived,1,female,38.0,71.2833,C
+Survived,3,female,26.0,7.925,S
+Survived,1,female,35.0,53.1,S
+Dead,3,male,35.0,8.05,S
